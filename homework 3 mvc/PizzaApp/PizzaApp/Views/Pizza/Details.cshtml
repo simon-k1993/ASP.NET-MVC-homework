@@ -1,0 +1,20 @@
+﻿@model PizzaViewModel
+
+<p>Pizza @Model.Name (@Model.PizzaSize size) costs @Model.Price denari!!! </p>
+
+
+@if (ViewBag.IsPromotion)
+{
+    <h4>The @Model.Name is on promotion!</h4>
+}
+else
+{
+    <h4>The @Model.Name is not on promotion.</h4>
+}
+
+
+<p>==========================================================================</p>
+
+<h3>Pizza Details</h3>
+
+<partial name="~/Views/Shared/Partials/_PizzaDetails.cshtml" for="@Model" />

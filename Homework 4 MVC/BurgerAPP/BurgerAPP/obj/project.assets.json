@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Simon\\Desktop\\Homework 4 MVC\\BurgerAPP\\BurgerAPP\\BurgerAPP.csproj",
-      "projectName": "BurgerAPP",
-      "projectPath": "C:\\Users\\Simon\\Desktop\\Homework 4 MVC\\BurgerAPP\\BurgerAPP\\BurgerAPP.csproj",
+      "projectUniqueName": "C:\\Users\\Simon\\Desktop\\MVC Homeworks\\ASP.NET-MVC-homework\\Homework 4 MVC\\BurgerAPP\\BurgerAPP\\BurgerApp.csproj",
+      "projectName": "BurgerApp",
+      "projectPath": "C:\\Users\\Simon\\Desktop\\MVC Homeworks\\ASP.NET-MVC-homework\\Homework 4 MVC\\BurgerAPP\\BurgerAPP\\BurgerApp.csproj",
       "packagesPath": "C:\\Users\\Simon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Simon\\Desktop\\Homework 4 MVC\\BurgerAPP\\BurgerAPP\\obj\\",
+      "outputPath": "C:\\Users\\Simon\\Desktop\\MVC Homeworks\\ASP.NET-MVC-homework\\Homework 4 MVC\\BurgerAPP\\BurgerAPP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Simon\\AppData\\Roaming\\NuGet\\NuGet.Config",

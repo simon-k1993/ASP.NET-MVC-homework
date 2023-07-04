@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LljgHbX8KaNx2nQqrjXZzWwDCG2czVe1RRVmohkzAGJGwbpsYUS/OJrufMmWtz9g8xbBXxzXdeY31gIWkyl8OA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Simon\\Desktop\\Homework 5 MVC\\BurgerApp\\BurgerApp.Services\\BurgerApp.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Simon\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Simon\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
